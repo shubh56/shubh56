@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Shubh!
 
 I'm a dedicated student with a passion for programming and a diverse skill set in programming languages like Python, C++, C, and Java. I'm also exploring web development and AI/ML to expand my knowledge further.
 
