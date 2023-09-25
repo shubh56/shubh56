@@ -6,6 +6,9 @@ I'm a dedicated student with a passion for programming and a diverse skill set i
 
 - 💻 Flutter Development
 - 🐍 Python
+- ☕ Java
+- 🔵 C++
+- 🅒 C
 - 🌐 Web Development (In Progress)
 - 🧠 Artificial Intelligence/Machine Learning (In Progress)
 
