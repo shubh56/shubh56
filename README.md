@@ -1,33 +1,70 @@
-# 👋 Hello, I'm Shubh!
+# 👋 Hi, I'm Shubh Harde!
 
-I'm a dedicated student with a passion for programming and a diverse skill set in programming languages like Python, C++, C, and Java. I'm also exploring web development and AI/ML to expand my knowledge further.
+⚽ **Football Data Scientist** | 📊 **Sports Tech MSc Student @ KTH** | 🧠 **AI & Machine Learning**
 
-## 🚀 Skills
+---
 
-- 💻 Flutter Development
-- 🐍 Python
-- ☕ Java
-- 🔵 C++
-- 🅒 C
-- 🌐 Web Development (In Progress)
-- 🧠 Artificial Intelligence/Machine Learning (In Progress)
+## ⚽ About Me
 
-## 🌱 Current Learning
+I bridge the gap between raw spatio-temporal tracking data and actionable tactical insights on the pitch.
 
-I'm currently focusing on enhancing my skills in web development and exploring the exciting field of AI/ML. Continuous learning is a key part of my academic journey.
+Currently pursuing my MSc in Sports Technology at **KTH Royal Institute of Technology** in Stockholm, combining machine learning, spatial modeling, and automated pipelines to solve complex player recruitment and tactical analysis problems.
 
-## ⚡ Fun Facts
+- 🎓 **MSc Sports Tech** @ KTH Royal Institute of Technology | **B.Tech in AI & Data Science**
+- 🔬 **Published Researcher** in football analytics (Player replacement systems & transfer price prediction)
+- 🚀 **Data Engineering Intern** @ Sportstech Sweden (Mapping the Swedish sportstech ecosystem)
+- ✍️ **Creator of Mr. Code & Ball** — writing and building at the intersection of football analytics & tech
 
-- ⚽ I'm a FIFA enthusiast, and you might catch me scoring goals virtually in my free time.
-- 📚 I enjoy reading tech blogs and staying updated with the latest trends in the tech world.
+---
 
-## 📫 Connect with Me
+## 🛠️ Technical Stack & Tools
 
-- LinkedIn: [Shubh Harde]((https://www.linkedin.com/in/shubhharde/))
-- Instagram: [shubh.harde]((https://www.instagram.com/shubh.harde/))
+### Football & Spatial Analytics
+- `mplsoccer` | `matplotsoccer`
+- StatsBomb Open Data | Opta Schemas
+- Tracking & Event Data | Pitch Control Models
+- PPDA Pressing Metrics
 
-Feel free to connect with me or reach out for collaborations. Let's learn and grow together! 😊
+### Data Science, AI & Engineering
+- **Languages:** Python (Pandas, NumPy, Scikit-learn, SciPy), SQL (PostgreSQL)
+- **Pipelines & Cloud:** ETL Pipelines, AWS (S3)
+- **Visualization:** Tableau, PowerBI, Streamlit
 
-<!--
-You can add more sections or customize this template to suit your preferences and career goals.
--->
+### App & Web Development
+- Flutter | Dart | Firebase
+- REST APIs | HTML/CSS
+
+---
+
+## 📌 Featured Projects
+
+### ⚽ Player Replacement Finder
+Engineered k-means clustering & cosine similarity models on StatsBomb/FBref data to automate scouting targets across Europe's top 5 leagues based on team formation, pressing intensity, and positional heatmaps.
+
+### 📱 Labor Link
+Built a real-time, multilingual Flutter & Firebase platform connecting blue-collar workers with clients, featuring automated translation and instant messaging.
+
+---
+
+## 📚 Published Research
+
+- **Tactical and Economic Profiling for Football Player Replacement: A Multi-metric Replacement System** *(Springer)*
+- **Comparative Analysis of Data-Driven Techniques to Predict Transfer Prices of Football Players** *(IJISRT)*
+
+---
+
+## ⚡ Quick Stats & Fun Facts
+
+- 🎮 Virtual tactical genius when I'm not coding algorithms for real pitches.
+- 🇸🇪 Based in Stockholm, Sweden | Originally from Mumbai, India.
+- 🎯 Passionate about building automated pipelines that save hundreds of reporting hours.
+
+> *“In God we trust; all others must bring data.”* — **W. Edwards Deming**
+
+---
+
+## 📫 Connect & Explore
+
+- 🌐 **Portfolio:** [shubhharde.com](https://shubhharde.com)
+- 💼 **LinkedIn:** [Shubh Harde](https://www.linkedin.com/in/shubhharde/)
+- 💻 **GitHub:** [shubh56](https://github.com/shubh56)
